@@ -10,8 +10,7 @@ body {
 }
 
 .container-slider {
-  width: 90%;
-  max-width: 900px;
+  width: 100%;
   margin: auto;
   overflow: hidden;
   box-shadow: 0 0 0 10px #fff, 0 15px 50px;
@@ -20,7 +19,7 @@ body {
 
 .slider {
   width: 400%;
-  height: 400px;
+  height: 100vh;
   display: flex;
   margin-left: -100%;
 }
